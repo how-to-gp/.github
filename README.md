@@ -1,2 +1,3 @@
 # .github
-how-to-gp README repository
+
+We create the book "An Introduction to Geometry Processing" together with its python tutorial.
